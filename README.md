@@ -24,7 +24,6 @@ Swift, SwiftUI, macOS를 활용해 Apple 플랫폼용 앱을 개발해 온 3년 
 ## Links | 링크
 
 - [LinkedIn](https://www.linkedin.com/in/tudor-iustin-ml)
-- [Arya Labs](https://www.aryalabs.co.uk)
 
 ---
 
